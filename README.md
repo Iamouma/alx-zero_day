@@ -49,24 +49,34 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## General
 How to navigate in an Unix system
+
 How to list files and directories
+
 How to display the content of a file
+
 How to create a file or directory
+
 How to remove a file or directory
+
 How to move or copy a file or directory
-Copyright - Plagiarism
+
+## Copyright - Plagiarism
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
+
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
+
 You are not allowed to publish any content of this project.
+
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
-Requirements
+
+### Requirements
 All tasks must be done inside the sandbox Ubuntu 20.04
 Your sandbox must be available at the end of this project - the Checker will access to it at midnight for running the correction!
 It’s recommended to start the project on a fresh new Sandbox
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
 Tasks
-0. Create me!
+## 0. Create me!
 mandatory
 Score: 100.0% (Checks completed: 100.0%)
 Access your sandbox and:
@@ -78,7 +88,7 @@ Advices:
 Don’t forget to validate your current working directory
 Don’t forget to display the list of files of your current directory to validate the creation of the new file
    
-1. More of me
+## 1. More of me
 mandatory
 Score: 100.0% (Checks completed: 100.0%)
 Access your sandbox and:
@@ -90,7 +100,7 @@ Advices:
 Don’t forget to validate your current working directory
 Don’t forget to display the list of files of your current directory to validate the copy of the file
    
-2. To old
+## 2. To old
 mandatory
 Score: 100.0% (Checks completed: 100.0%)
 Access your sandbox and:
@@ -102,7 +112,7 @@ Advices:
 Don’t forget to validate your current working directory
 Don’t forget to display the list of files of your current directory to validate the renaming of the file
    
-3. Not here
+## 3. Not here
 mandatory
 Score: 100.0% (Checks completed: 100.0%)
 Access your sandbox and:
@@ -114,7 +124,7 @@ Advices:
 Don’t forget to validate your current working directory
 Don’t forget to display the list of files of your current directory to validate the move of the file
    
-4. Not anymore
+## 4. Not anymore
 mandatory
 Score: 100.0% (Checks completed: 100.0%)
 Access your sandbox and:
@@ -126,7 +136,7 @@ Advices:
 Don’t forget to validate your current working directory
 Don’t forget to display the list of files of your current directory to validate the removal of the file
    
-5. Organization is key!
+## 5. Organization is key!
 mandatory
 Score: 100.0% (Checks completed: 100.0%)
 Access your sandbox and:
@@ -138,7 +148,7 @@ Advices:
 Don’t forget to validate your current working directory
 Don’t forget to display the list of directories of your current directory to validate the creation of the directory
    
-6. No need
+## 6. No need
 mandatory
 Score: 100.0% (Checks completed: 100.0%)
 Access your sandbox and:
