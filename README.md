@@ -112,7 +112,7 @@ Advices:
 Don’t forget to validate your current working directory
 Don’t forget to display the list of files of your current directory to validate the renaming of the file
    
-## 3. Not here
+### 3. Not here
 mandatory
 Score: 100.0% (Checks completed: 100.0%)
 Access your sandbox and:
